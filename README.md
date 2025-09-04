@@ -23,7 +23,6 @@ $ whoami
 > Jens Polspoel - DevOps Engineer & Entrepreneur
 
 $ cat /etc/profile
-> 🏢 Lead DevOps Engineer @ Lemon Companies
 > 🏢 Lead DevOps Engineer @ Institute for Nature and Forest
 > 🏢 Senior DevOps Engineer @ BillTrust (Fintech)
 > 👨‍💼 CEO & Founder @ Zodi Innovations (Since 2016)
