@@ -27,7 +27,7 @@ $ cat /etc/profile
 > 🏢 Senior DevOps Engineer @ BillTrust (Fintech)
 > 👨‍💼 CEO & Founder @ Zodi Innovations (Since 2016)
 > 👨‍💼 CEO & Founder @ Digitall Expert (Since 2019)
-> 🌍 Based in Asse, Belgium
+> 🌍 Based in Leuven, Belgium
 > 💼 100+ International Clients
 > ⚡ 99.999% Uptime Guarantee
 > 🛡️ Enterprise-Scale Cloud Solutions
