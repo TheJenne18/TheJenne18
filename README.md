@@ -1,23 +1,3 @@
-<!-- Animated Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=256&section=header&text=Jens%20Polspoel&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20CEO%20@%20Zodi%20Innovations&descAlignY=51&descAlign=62" width="100%" />
-</div>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Lead+DevOps+Engineer+@+INBO;CEO+at+Zodi+Innovations;Multi-Cloud+Architecture+Specialist;AWS+Solutions+Architect" alt="Typing SVG" />
-</p>
-
-<!-- Animated Wave Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
-</p>
-
-<!-- About Me Section with Terminal Style -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</div>
-
 ```bash
 $ whoami
 > Jens Polspoel - DevOps Engineer & Entrepreneur
