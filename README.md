@@ -20,7 +20,7 @@
 I design, build and run cloud infrastructure, with a strong focus on AWS. I care about automation, reliability and security, and I enjoy turning complex environments into platforms that are simple to operate.
 
 - 🏢 **Lead DevOps Engineer** at [INBO](https://github.com/inbo), the Research Institute for Nature and Forest
-- 🏦 **Senior DevOps Engineer** at Billtrust (fintech)
+- 🏦 Previously **Senior DevOps Engineer** at Billtrust (fintech)
 - 🚀 **Founder &amp; CEO** of [Zodi Innovations](https://www.zodi-innovations.be) (2016) and [Digitall Expert](https://digitall.expert) (2019), an official AWS Partner
 - 🛠️ Custom software, SaaS platforms, DevOps as a Service and AWS consultancy for 100+ clients
 - 🚴 Away from the keyboard you will find me on [Strava](https://www.strava.com/athletes/58270892)
