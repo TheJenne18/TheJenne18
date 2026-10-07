@@ -32,29 +32,29 @@ I design, build and run cloud infrastructure, with a strong focus on AWS. I care
 **Cloud**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://aws%2Cazure%2Cgcp&theme=dark">
-  <img src="https://aws%2Cazure%2Cgcp&theme=light" alt="AWS, Azure, Google Cloud">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cazure%2Cgcp&theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws%2Cazure%2Cgcp&theme=light" alt="AWS, Azure, Google Cloud">
 </picture>
 
 **Infrastructure &amp; CI/CD**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://docker%2Ckubernetes%2Cterraform%2Cansible%2Clinux%2Cjenkins%2Cgitlab%2Cgithubactions&theme=dark">
-  <img src="https://docker%2Ckubernetes%2Cterraform%2Cansible%2Clinux%2Cjenkins%2Cgitlab%2Cgithubactions&theme=light" alt="Docker, Kubernetes, Terraform, Ansible, Linux, Jenkins, GitLab CI, GitHub Actions">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Cterraform%2Cansible%2Clinux%2Cjenkins%2Cgitlab%2Cgithubactions&theme=dark">
+  <img src="https://skillicons.dev/icons?i=docker%2Ckubernetes%2Cterraform%2Cansible%2Clinux%2Cjenkins%2Cgitlab%2Cgithubactions&theme=light" alt="Docker, Kubernetes, Terraform, Ansible, Linux, Jenkins, GitLab CI, GitHub Actions">
 </picture>
 
 **Languages &amp; frameworks**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://py%2Cgo%2Cbash%2Cphp%2Csymfony%2Cjs&theme=dark">
-  <img src="https://py%2Cgo%2Cbash%2Cphp%2Csymfony%2Cjs&theme=light" alt="Python, Go, Bash, PHP, Symfony, JavaScript">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cgo%2Cbash%2Cphp%2Csymfony%2Cjs&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py%2Cgo%2Cbash%2Cphp%2Csymfony%2Cjs&theme=light" alt="Python, Go, Bash, PHP, Symfony, JavaScript">
 </picture>
 
 **Data &amp; observability**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://mysql%2Cpostgres%2Celasticsearch%2Cprometheus%2Cgrafana&theme=dark">
-  <img src="https://mysql%2Cpostgres%2Celasticsearch%2Cprometheus%2Cgrafana&theme=light" alt="MySQL, PostgreSQL, Elasticsearch, Prometheus, Grafana">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Celasticsearch%2Cprometheus%2Cgrafana&theme=dark">
+  <img src="https://skillicons.dev/icons?i=mysql%2Cpostgres%2Celasticsearch%2Cprometheus%2Cgrafana&theme=light" alt="MySQL, PostgreSQL, Elasticsearch, Prometheus, Grafana">
 </picture>
 
 </div>
